@@ -1,0 +1,309 @@
+{
+    "products": [
+            {
+              "name": "carrot",
+              "img": "https://example.com/carrot.jpg",
+              "price": "1.99",
+              "description": "Fresh and crunchy carrot.",
+              "author_id": "12345",
+              "id": "67890"
+            },
+            {
+              "name": "broccoli",
+              "img": "https://example.com/broccoli.jpg",
+              "price": "2.49",
+              "description": "Nutritious and delicious broccoli.",
+              "author_id": "23456",
+              "id": "78901"
+            },
+            {
+              "name": "tomato",
+              "img": "https://example.com/tomato.jpg",
+              "price": "0.99",
+              "description": "Juicy and ripe tomato.",
+              "author_id": "34567",
+              "id": "89012"
+            },
+            {
+              "name": "spinach",
+              "img": "https://example.com/spinach.jpg",
+              "price": "1.49",
+              "description": "Leafy and green spinach.",
+              "author_id": "45678",
+              "id": "90123"
+            },
+            {
+              "name": "cucumber",
+              "img": "https://example.com/cucumber.jpg",
+              "price": "1.29",
+              "description": "Cool and refreshing cucumber.",
+              "author_id": "56789",
+              "id": "01234"
+            },
+            {
+              "name": "onion",
+              "img": "https://example.com/onion.jpg",
+              "price": "0.79",
+              "description": "Flavorful and aromatic onion.",
+              "author_id": "67890",
+              "id": "12345"
+            },
+            {
+              "name": "bell pepper",
+              "img": "https://example.com/bellpepper.jpg",
+              "price": "1.79",
+              "description": "Colorful and sweet bell pepper.",
+              "author_id": "78901",
+              "id": "23456"
+            },
+            {
+              "name": "potato",
+              "img": "https://example.com/potato.jpg",
+              "price": "0.89",
+              "description": "Versatile and starchy potato.",
+              "author_id": "89012",
+              "id": "34567"
+            },
+            {
+              "name": "cauliflower",
+              "img": "https://example.com/cauliflower.jpg",
+              "price": "2.99",
+              "description": "Crunchy and nutritious cauliflower.",
+              "author_id": "90123",
+              "id": "45678"
+            },
+            {
+              "name": "zucchini",
+              "img": "https://example.com/zucchini.jpg",
+              "price": "1.69",
+              "description": "Mild and tender zucchini.",
+              "author_id": "01234",
+              "id": "56789"
+            },
+            {
+              "name": "carrot",
+              "img": "https://example.com/carrot.jpg",
+              "price": "1.99",
+              "description": "Fresh and crunchy carrot.",
+              "author_id": "12345",
+              "id": "67890"
+            },
+            {
+              "name": "broccoli",
+              "img": "https://example.com/broccoli.jpg",
+              "price": "2.49",
+              "description": "Nutritious and delicious broccoli.",
+              "author_id": "23456",
+              "id": "78901"
+            },
+            {
+              "name": "tomato",
+              "img": "https://example.com/tomato.jpg",
+              "price": "0.99",
+              "description": "Juicy and ripe tomato.",
+              "author_id": "34567",
+              "id": "89012"
+            },
+            {
+              "name": "spinach",
+              "img": "https://example.com/spinach.jpg",
+              "price": "1.49",
+              "description": "Leafy and green spinach.",
+              "author_id": "45678",
+              "id": "90123"
+            },
+            {
+              "name": "cucumber",
+              "img": "https://example.com/cucumber.jpg",
+              "price": "1.29",
+              "description": "Cool and refreshing cucumber.",
+              "author_id": "56789",
+              "id": "01234"
+            },
+            {
+              "name": "onion",
+              "img": "https://example.com/onion.jpg",
+              "price": "0.79",
+              "description": "Flavorful and aromatic onion.",
+              "author_id": "67890",
+              "id": "12345"
+            },
+            {
+              "name": "bell pepper",
+              "img": "https://example.com/bellpepper.jpg",
+              "price": "1.79",
+              "description": "Colorful and sweet bell pepper.",
+              "author_id": "78901",
+              "id": "23456"
+            },
+            {
+              "name": "potato",
+              "img": "https://example.com/potato.jpg",
+              "price": "0.89",
+              "description": "Versatile and starchy potato.",
+              "author_id": "89012",
+              "id": "34567"
+            },
+            {
+              "name": "cauliflower",
+              "img": "https://example.com/cauliflower.jpg",
+              "price": "2.99",
+              "description": "Crunchy and nutritious cauliflower.",
+              "author_id": "90123",
+              "id": "45678"
+            },
+            {
+              "name": "zucchini",
+              "img": "https://example.com/zucchini.jpg",
+              "price": "1.69",
+              "description": "Mild and tender zucchini.",
+              "author_id": "01234",
+              "id": "56789"
+            }
+    ],
+
+    "users": [
+        {
+          "name": "John Doe",
+          "img": "http://example.com/seller1.jpg",
+          "Surname": "Doe",
+          "balance": "5000",
+          "id": "12345"
+        },
+        {
+          "name": "Jane Smith",
+          "img": "http://example.com/seller2.jpg",
+          "Surname": "Smith",
+          "balance": "3500",
+          "id": "67890"
+        },
+        {
+          "name": "Mike Johnson",
+          "img": "http://example.com/seller3.jpg",
+          "Surname": "Johnson",
+          "balance": "2000",
+          "id": "54321"
+        },
+        {
+          "name": "Sara Williams",
+          "img": "http://example.com/seller4.jpg",
+          "Surname": "Williams",
+          "balance": "4500",
+          "id": "98765"
+        },
+        {
+          "name": "David Brown",
+          "img": "http://example.com/seller5.jpg",
+          "Surname": "Brown",
+          "balance": "3000",
+          "id": "67891"
+        },
+        {
+          "name": "Emily Davis",
+          "img": "http://example.com/seller6.jpg",
+          "Surname": "Davis",
+          "balance": "5500",
+          "id": "23456"
+        },
+        {
+          "name": "Tom Wilson",
+          "img": "http://example.com/seller7.jpg",
+          "Surname": "Wilson",
+          "balance": "4000",
+          "id": "78901"
+        },
+        {
+          "name": "Amy Taylor",
+          "img": "http://example.com/seller8.jpg",
+          "Surname": "Taylor",
+          "balance": "2500",
+          "id": "34567"
+        },
+        {
+          "name": "Chris Anderson",
+          "img": "http://example.com/seller9.jpg",
+          "Surname": "Anderson",
+          "balance": "500",
+          "id": "89012"
+        },
+        {
+          "name": "Jessica Martinez",
+          "img": "http://example.com/seller10.jpg",
+          "Surname": "Martinez",
+          "balance": "1500",
+          "id": "45678"
+        },
+        {
+          "name": "Kevin Garcia",
+          "img": "http://example.com/seller11.jpg",
+          "Surname": "Garcia",
+          "balance": "3500",
+          "id": "90123"
+        },
+        {
+          "name": "Michelle Rodriguez",
+          "img": "http://example.com/seller12.jpg",
+          "Surname": "Rodriguez",
+          "balance": "3000",
+          "id": "56789"
+        },
+        {
+          "name": "Andrew Lee",
+          "img": "http://example.com/seller13.jpg",
+          "Surname": "Lee",
+          "balance": "4000",
+          "id": "01234"
+        },
+        {
+          "name": "Stephanie Clark",
+          "img": "http://example.com/seller14.jpg",
+          "Surname": "Clark",
+          "balance": "2000",
+          "id": "67892"
+        },
+        {
+          "name": "Daniel Young",
+          "img": "http://example.com/seller15.jpg",
+          "Surname": "Young",
+          "balance": "4500",
+          "id": "34568"
+        },
+        {
+          "name": "Rebecca Hall",
+          "img": "http://example.com/seller16.jpg",
+          "Surname": "Hall",
+          "balance": "5000",
+          "id": "90124"
+        },
+        {
+          "name": "Jason Allen",
+          "img": "http://example.com/seller17.jpg",
+          "Surname": "Allen",
+          "balance": "3500",
+          "id": "56790"
+        },
+        {
+          "name": "Melissa Wright",
+          "img": "http://example.com/seller18.jpg",
+          "Surname": "Wright",
+          "balance": "3000",
+          "id": "12345"
+        },
+        {
+          "name": "Erica Lopez",
+          "img": "http://example.com/seller19.jpg",
+          "Surname": "Lopez",
+          "balance": "4000",
+          "id": "67893"
+        },
+        {
+          "name": "Steven Hill",
+          "img": "http://example.com/seller20.jpg",
+          "Surname": "Hill",
+          "balance": "2500",
+          "id": "23456"
+        }
+      ]
+
+    
+}
