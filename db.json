@@ -2,7 +2,7 @@
     "products": [
             {
               "name": "carrot",
-              "img": "img/carrot.jpg",
+              "img": "https://raw.githubusercontent.com/Wertoquri/marketplace/main/img/carrot.jpg",
               "price": "1.99",
               "description": "Fresh and crunchy carrot.",
               "author_id": "1",
@@ -10,7 +10,7 @@
             },
             {
               "name": "broccoli",
-              "img": "img/broccoli.jpg",
+              "img": "https://raw.githubusercontent.com/Wertoquri/marketplace/main/img/broccoli.jpg",
               "price": "2.49",
               "description": "Nutritious and delicious broccoli.",
               "author_id": "2",
@@ -18,7 +18,7 @@
             },
             {
               "name": "tomato",
-              "img": "img/tomato.webp",
+              "img": "https://raw.githubusercontent.com/Wertoquri/marketplace/main/img/tomato.webp",
               "price": "0.99",
               "description": "Juicy and ripe tomato.",
               "author_id": "3",
@@ -26,7 +26,7 @@
             },
             {
               "name": "spinach",
-              "img": "img/spinach.jpg",
+              "img": "https://raw.githubusercontent.com/Wertoquri/marketplace/main/img/spinach.jpg",
               "price": "1.49",
               "description": "Leafy and green spinach.",
               "author_id": "4",
@@ -37,21 +37,21 @@
     "users": [
         {
           "name": "John Doe",
-          "img": "img/user1.jpg",
+          "img": "https://raw.githubusercontent.com/Wertoquri/marketplace/main/img/user1.jpg",
           "Surname": "Doe",
           "balance": "5000",
           "id": "1"
         },
         {
           "name": "Jane Smith",
-          "img": "img/user2.jpg",
+          "img": "https://raw.githubusercontent.com/Wertoquri/marketplace/main/img/user2.jpg",
           "Surname": "Smith",
           "balance": "3500",
           "id": "2"
         },
         {
           "name": "Mike Johnson",
-          "img": "img/user3.webp",
+          "img": "https://raw.githubusercontent.com/Wertoquri/marketplace/main/img/user3.webp",
           "Surname": "Johnson",
           "balance": "2000",
           "id": "3"
